@@ -3,6 +3,9 @@
 This repo is an attempt to convert the code in the repo bellow to python3:
 https://github.com/kigaita/PsvDecryptCore
 
+- This is for Windows users, for mac user checkout this gist:
+https://gist.github.com/bitsnaps/759e9a1363b0d63a329e16014d60021f
+
 P.S. Work in progress...
 
 # Disclaimer
